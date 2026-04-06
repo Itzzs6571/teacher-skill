@@ -1,3 +1,5 @@
+[English](./README_EN.md) | 中文
+
 # Teacher Skill — 蒸馏你的老师
 
 **把你最喜欢的老师变成 AI，随时随地请 TA 给你讲题。**

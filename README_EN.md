@@ -1,3 +1,5 @@
+English | [中文](./README.md)
+
 # Teacher Skill — Distill Your Teacher
 
 **Turn your favorite teacher into an AI that teaches just like them.**
